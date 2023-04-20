@@ -18,4 +18,5 @@ int main(){
         }
         std::cout << item1.isbn() << " " << num << std::endl;
     }
+    return 0;
 }
